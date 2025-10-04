@@ -1,0 +1,1 @@
+🧩 Match pairs, test your memory! A clean, responsive Memory Game made with HTML, CSS, and JS featuring animations, timer, and restart option.
